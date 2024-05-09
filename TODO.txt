@@ -1,0 +1,15 @@
+1. RAG 최적화: Similarity, MMR, lambda_mult, Lexical, Hybrid, ReRanking, etc.
+2. Logging level 설정
+3. Token Report
+4. Scripting in shell
+5. dotenv 적용
+6. Retrieved 문서 표시
+7. ReRanking 비교
+8. Metadata Filtering
+- LangChain은 현재 질의 시 Dynamic하게 필터를 거는 기능은 지원하지 않는 듯
+- https://github.com/langchain-ai/langchain/issues/9195
+
+9. 셀프 쿼리 검색기(SelfQueryRetriever)
+- https://wikidocs.net/234475
+
+10. MMR 적용
